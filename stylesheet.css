@@ -31,10 +31,10 @@ body{
     ),
     url(./images/background.jpg); */
     /* background-image: url("images/background.jpg"); */
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat;
     background-position: center;
     background-size: cover;  Fixed Scale Screen */
-    background-color: #0000ff80;
+    background-color: aquamarine;
 }
  
 a, button, p{
