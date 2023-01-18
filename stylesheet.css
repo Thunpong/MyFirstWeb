@@ -34,7 +34,7 @@ body{
     /* background-repeat: no-repeat;
     background-position: center;
     background-size: cover;  Fixed Scale Screen */
-    background-color: #EBFF00;
+    background-color: --dark60;
 }
  
 a, button, p{
